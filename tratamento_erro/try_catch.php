@@ -19,4 +19,5 @@
         echo "Sempre executado ! <br>"; // o código dentro do bloco 'finally' sempre será executado
                                         // indepentedentemente de ter havido exceção ou não.
     }
+    
 ?>

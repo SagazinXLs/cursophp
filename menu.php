@@ -84,5 +84,18 @@
                    
                     </ul>
                 </div>
+
+                <div class="modulo verde">
+                    <h3>Temporario</h3>
+                    <ul>
+                    <li><a href="exercicio.php?dir=revisao&file=variavel">Revisao</a></li>
+                    <li><a href="exercicio.php?dir=revisao&file=arrays">Arrays</a></li>
+                    <li><a href="exercicio.php?dir=revisao&file=funcoesrevisao">Funções</a></li>
+                    <li><a href="exercicio.php?dir=revisao&file=orientacaoObjeto">Orientção Objeto</a></li>
+
+
+                    </ul>
+                </div>
+
                 
             </nav>
